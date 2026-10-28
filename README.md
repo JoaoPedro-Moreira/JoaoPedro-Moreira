@@ -1,3 +1,8 @@
+
+<img width="1004" height="564" alt="Captura de tela 2026-10-28 191704" src="https://github.com/user-attachments/assets/d6a1c71f-99e5-4c30-9080-8ba4cb9e9629" />
+
+
+
 # João Pedro
 
 **`Dev FullStack`**
