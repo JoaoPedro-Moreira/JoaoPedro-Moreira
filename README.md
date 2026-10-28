@@ -64,23 +64,11 @@ Me chamo João Pedro, tenho 19 anos e sou desenvolvedor full stack iniciante, co
 
 ### Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoPedro-Moreira&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
-  />
+![](https://github-readme-stats.shion.dev/api?username=JoaoPedro-Moreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=JoaoPedro-Moreira&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JoaoPedro-Moreira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro-Moreira&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
 
 
 
