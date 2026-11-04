@@ -7,9 +7,7 @@
 
 **`Dev FullStack`**
 
-Me chamo João Pedro, tenho 19 anos e sou desenvolvedor full stack iniciante, com maior interesse na área de backend. Desde criança, tenho curiosidade por tecnologia, mas foi durante a adolescência que comecei a enxergar a programação como uma carreira para o meu futuro. Atualmente, curso Engenharia de Software na UCSAL
-
- e venho desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades, principalmente em Java, além de explorar tecnologias voltadas ao desenvolvimento web. Estou sempre em busca de novos conhecimentos, desafios e oportunidades que me permitam evoluir como desenvolvedor e construir uma carreira sólida na área de tecnologia.
+Me chamo João Pedro, tenho 19 anos e sou desenvolvedor full stack iniciante, com maior interesse na área de backend. Desde criança, tenho curiosidade por tecnologia, mas foi durante a adolescência que comecei a enxergar a programação como uma carreira para o meu futuro. Atualmente, curso Engenharia de Software na UCSAL e venho desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades, principalmente em Java, além de explorar tecnologias voltadas ao desenvolvimento web. Estou sempre em busca de novos conhecimentos, desafios e oportunidades que me permitam evoluir como desenvolvedor e construir uma carreira sólida na área de tecnologia.
 
 
 ### Linguagens e Tecnologias
