@@ -7,8 +7,17 @@
 
 **`Dev FullStack`**
 
-Me chamo João Pedro, tenho 19 anos e sou desenvolvedor full stack iniciante, com maior interesse na área de backend. Desde criança, tenho curiosidade por tecnologia, mas foi durante a adolescência que comecei a enxergar a programação como uma carreira para o meu futuro. Atualmente, curso Engenharia de Software na UCSAL e venho desenvolvendo projetos acadêmicos e pessoais para aprimorar minhas habilidades, principalmente em Java, além de explorar tecnologias voltadas ao desenvolvimento web. Estou sempre em busca de novos conhecimentos, desafios e oportunidades que me permitam evoluir como desenvolvedor e construir uma carreira sólida na área de tecnologia.
+👋 Olá!
 
+Sou estudante de Engenharia de Software na UCSAL, com interesse em desenvolvimento de software, especialmente na área de Backend.
+
+Atualmente, desenvolvo projetos acadêmicos utilizando principalmente Java, aplicando conceitos de Programação Orientada a Objetos (POO), concorrência e fundamentos de Sistemas Operacionais. Também possuo conhecimentos em HTML, CSS e JavaScript.
+
+Tenho interesse em aprofundar meus conhecimentos em Engenharia de Software, Inteligência Artificial e Dados, sempre buscando novos desafios e oportunidades de aprendizado.
+
+• Portfólio: joaopedro-moreira.github.io/Meu-Portifolio
+• LinkedIn: Meu perfil
+• Email: joaopedromarcal0505@gmail.com
 
 ### Linguagens e Tecnologias
 
