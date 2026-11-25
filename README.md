@@ -15,7 +15,7 @@ Atualmente, desenvolvo projetos acadêmicos utilizando principalmente Java, apli
 
 Tenho interesse em aprofundar meus conhecimentos em Engenharia de Software, Inteligência Artificial e Dados, sempre buscando novos desafios e oportunidades de aprendizado.
 
-• Portfólio: joaopedro-moreira.github.io/Meu-Portifolio/
+• [Portfólio:](https://joaopedro-moreira.github.io/Meu-Portifolio/)
 
 • [LinkedIn:](https://www.linkedin.com/in/joão-pedro-marçal-moreira-ba4a26439)
 
