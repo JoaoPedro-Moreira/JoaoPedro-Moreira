@@ -17,7 +17,7 @@ Tenho interesse em aprofundar meus conhecimentos em Engenharia de Software, Inte
 
 • Portfólio: joaopedro-moreira.github.io/Meu-Portifolio/
 
-• LinkedIn: linkedin.com/in/joão-pedro-marçal-moreira-ba4a26439
+• [LinkedIn:](https://www.linkedin.com/in/joão-pedro-marçal-moreira-ba4a26439)
 
 • [Email](mailto:joaopedromarcal0505@gmail.com)
 
